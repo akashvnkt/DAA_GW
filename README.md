@@ -1,1 +1,2 @@
-This is project 2 for DAA course: Quickselect algorithm using median of medians method
+These are the projects for DAA course
+project 2 & project 3 are posted
